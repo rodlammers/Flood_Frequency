@@ -1,0 +1,12 @@
+name: Flood_Frequency
+title: Flood_Frequency
+username:
+account: rodlammers
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1822891
+bundleId: 2807060
+url: https://rodlammers.shinyapps.io/Flood_Frequency/
+when: 1581962610.47231
+asMultiple: FALSE
+asStatic: FALSE
